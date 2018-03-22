@@ -1,0 +1,13 @@
+# Development branch
+This is the developer branch.
+
+### Rules
+```
+1. From here subbranches can be made, where non working code can be built. 
+```
+```
+2. This branch must always run green.
+```
+```
+3. This is exclussively in english.
+```
