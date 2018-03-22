@@ -1,4 +1,4 @@
-# Gruppe5-4SemesterProjekt
+# Group 5 - 4. Semester Project
 4th Semester-project made by Group-5
 
 Getting Started
